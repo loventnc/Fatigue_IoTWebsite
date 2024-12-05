@@ -1,6 +1,6 @@
 "use client";
 
-import Sidebar from "../Companent/Sidebar";
+import Sidebar from "../Component/Sidebar";
 import { FaEye } from "react-icons/fa";
 
 interface DataItem {
